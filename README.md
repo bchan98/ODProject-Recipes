@@ -1,0 +1,1 @@
+This is a project designed to demonstrate understanding of basic website development and version control through git.
